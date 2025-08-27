@@ -1,4 +1,4 @@
-# STM32 Environmental Monitor Board
+# STM32 Environmental Monitor Board 🌱
 
 The **STM32 Environmental Monitor Board** is a user-developed PCB aimed at environmental temperature monitoring, with a focus on accurate temperature measurement. The board leverages the STM32 microcontroller to provide precise, reliable sensing and high-speed communication features, making it ideal for both prototyping and embedded systems design.
 
